@@ -10,5 +10,10 @@ public class UserController {
     public String toLogin(){
         return "/index";
     }
+    @RequestMapping("/login")
+    public String login(){
+        return "/index";
+    }
+
 
 }
