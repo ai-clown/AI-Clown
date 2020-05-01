@@ -2,9 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>AI CLOWN</title>
+    <script src="../jquery.js"></script>
 </head>
 <body>
+<div>
+    <a id="userName" href="/"></a>
+</div>
 
+<div>
+    <a style="height: 25px;width: 50px;" href="/">动漫</a>
+    <a style="height: 25px;width: 50px;" href="/">游戏</a>
+    <a style="height: 25px;width: 50px;" href="/">电影</a>
+</div>
+
+<script>
+    $(document).ready(function() {
+        var userName=document.cookie.match("userName");
+        $("#userName").text(userName.input.split("=")[1]);
+    });
+</script>
 </body>
 </html>

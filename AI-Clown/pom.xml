@@ -45,11 +45,11 @@
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
         </dependency>
         <!-- webjars引入jquery-->
-        <dependency>
+        <!--<dependency>
             <groupId>org.webjars</groupId>
             <artifactId>jquery</artifactId>
             <version>3.4.1</version>
-        </dependency>
+        </dependency>-->
     </dependencies>
 
     <build>

@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0a8db25-84bc-4eb4-8530-09921767961a" name="Default Changelist" comment="" />
+    <list default="true" id="f0a8db25-84bc-4eb4-8530-09921767961a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hd/config/SpringMVConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hd/handle/UserHandleConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI-Clown.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AI-Clown.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hd/AIClownRunApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hd/AIClownRunApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hd/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hd/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hd/AIClownRunApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hd/AIClownRunApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hd/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hd/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/Index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="335" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,12 +56,33 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/public" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\aiclownGithub\AI-Clown\src\main\resources\public" />
+      <recent name="D:\aiclownGithub\AI-Clown\src\main\resources\mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\aiclownGithub\AI-Clown\src\main\resources\static" />
+      <recent name="D:\aiclownGithub\AI-Clown\src\main\resources" />
+      <recent name="D:\aiclownGithub\AI-Clown\src\main\static" />
+      <recent name="D:\aiclownGithub\AI-Clown\src\main\resources\templates" />
+      <recent name="D:\aiclownGithub\AI-Clown\src\main\resources\public" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="AIClownRunApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -54,7 +104,18 @@
       <option name="presentableId" value="Default" />
       <updated>1586864496458</updated>
       <workItem from="1586864497736" duration="48000" />
-      <workItem from="1586864555776" duration="1939000" />
+      <workItem from="1586864555776" duration="7120000" />
+      <workItem from="1586956631591" duration="367000" />
+      <workItem from="1587383749163" duration="6595000" />
+      <workItem from="1587471421329" duration="815000" />
+      <workItem from="1587479282350" duration="5423000" />
+      <workItem from="1587552671384" duration="88000" />
+      <workItem from="1587645963166" duration="10488000" />
+      <workItem from="1587657730432" duration="3989000" />
+      <workItem from="1587662146850" duration="306000" />
+      <workItem from="1588127471103" duration="526000" />
+      <workItem from="1588128009740" duration="664000" />
+      <workItem from="1588312990374" duration="1925000" />
     </task>
     <task id="LOCAL-00001" summary="test Git">
       <created>1586865216395</created>
@@ -88,6 +149,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="test Git" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1587481696008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587481696008" />
     <state x="461" y="112" key="CommitChangelistDialog2" timestamp="1586865759150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -100,17 +165,157 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="832" y="411" width="273" height="291" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586866470088" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1586864998338">
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1588314702337">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586864998338" />
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588314702337" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1588314702337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588314702337" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1588314702337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588314702337" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1588314702337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588314702337" />
+    <state width="1921" height="289" key="GridCell.Tab.1.bottom" timestamp="1588314702338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588314702338" />
+    <state width="1921" height="289" key="GridCell.Tab.1.center" timestamp="1588314702338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588314702338" />
+    <state width="1921" height="289" key="GridCell.Tab.1.left" timestamp="1588314702337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588314702337" />
+    <state width="1921" height="289" key="GridCell.Tab.1.right" timestamp="1588314702338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588314702338" />
+    <state width="960" height="277" key="GridCell.Tab.2.bottom" timestamp="1587659719364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="960" height="277" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587659719364" />
+    <state width="960" height="277" key="GridCell.Tab.2.center" timestamp="1587659719364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="960" height="277" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587659719364" />
+    <state width="960" height="277" key="GridCell.Tab.2.left" timestamp="1587659719364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="960" height="277" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587659719364" />
+    <state width="960" height="277" key="GridCell.Tab.2.right" timestamp="1587659719364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="960" height="277" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587659719364" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1587658513865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587658513865" />
     <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1586866102759">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586866102759" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588312989532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588312989532" />
     <state x="790" y="311" key="svn.repositoryBrowser" timestamp="1586865050083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="311" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1586865050083" />
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1587388618675">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587388618675" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/controller/UserController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/controller/UserController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/controller/UserController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/controller/UserController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/controller/UserController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/controller/UserController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/handle/UserHandleConfig.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/handle/UserHandleConfig.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/handle/UserHandleConfig.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/handle/UserHandleConfig.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/handle/UserHandleConfig.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/handle/UserHandleConfig.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/handle/UserHandleConfig.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/handle/UserHandleConfig.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hd/handle/UserHandleConfig.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AI_Clown$AIClownRunApp.ic" NAME="AIClownRunApp Coverage Results" MODIFIED="1587483005057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

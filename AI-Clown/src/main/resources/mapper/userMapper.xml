@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hd.mapper.UserMapper">
+    <select id="findUserById" resultType="com.hd.entity.User" parameterType="Integer">
+      select * from user where user_id = #{userId}
+    </select>
+
+    <select id="findUserByUserName" resultType="com.hd.entity.User" parameterType="String">
+      select * from user where user_name = #{userName}
+    </select>
+
+    <!--password user_id user_name email age nick_name userDescribe-->
+
+   <!-- <update id="updateUser" parameterType="com.hd.entity.User" >
+        update user
+        <trim prefix="set" suffixOverrides=",">
+
+        <if test="null != password">
+            password=#{password},
+        </if>
+
+        <if test="null != userName">
+                  user_name=#{userName},
+        </if>
+
+        <if test="null != email">
+                  email=#{email},
+        </if>
+
+        <if test="null != age">
+                  age=#{age},
+        </if>
+
+        <if test="null != nickName">
+                  nick_name=#{nickName},
+        </if>
+
+        <if test="null != userDescribe">
+                  userDescribe=#{userDescribe}
+        </if>
+
+        </trim>
+                   where user_id=#{userId}
+    </update>
+
+    <delete id="deleteUserById" parameterType="Integer">
+        delete from user where user_id=#{userId}
+    </delete>-->
+</mapper>
